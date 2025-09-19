@@ -56,5 +56,5 @@ The app pulls CSVs directly from a public GitHub dataset at runtime (pirate atta
 
 ## Credits & license
 
-Dashboard developed by **Ravi Teja Rajavarapu**, **Achu Jeeju**, and **Sai Charan Reddy Kotha** (credit appears in the app footer).  
-License: MIT (or your choice).  
+Dashboard developed by **Ravi Teja Rajavarapu**, **Achu Jeeju**, and **Sai Charan Reddy Kotha** .  
+ 
